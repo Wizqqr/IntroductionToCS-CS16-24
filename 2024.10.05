@@ -1,0 +1,15 @@
+1. What is HTTP/HTTPS: HTTP (HyperText Transfer Protocol) is a protocol used to transfer data on the web. HTTPS (HyperText Transfer Protocol Secure) is a more secure version of HTTP, using encryption (SSL/TLS)to protect data.
+
+2. What is an API: API (Application Programming Interface) is a set of rules and tools that allow different software applications to communicate with each other and share data or functionality.
+ 
+3. Steps of website creation:
+• Planning: Define purpose, target audience, and content structure.
+• Design: Create wireframes, visual design, and user interface.
+• Development: Code the website using HTML, CSS, JavaScript, and backend languages.
+• Testing: Check for bugs, usability, and compatibility.
+• Deployment: Launch the website on a server.
+• Maintenance: Regular updates and performance checks.
+ 
+4. What is cross browsing: Cross-browser means ensuring that a website functions and appears correctly on different web browsers like Chrome, Firefox and Safari.
+
+5. What is optimization: Website optimization involves improving site speed, responsiveness, SEO and overall performance to enhance user experience and search engine rankings.
